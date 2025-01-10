@@ -29,9 +29,9 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
                Channel 7	    Local thickness	    Fire
      	 <table>
   <tr>
-    <td>項次</td>
-    <td>品名</td>
-    <td>描述</td>
+    <td> Channel no</td>
+    <td>Name</td>
+    <td>Look Up Table (LUT)</td>
   </tr>
   <tr>
     <td>1</td>
