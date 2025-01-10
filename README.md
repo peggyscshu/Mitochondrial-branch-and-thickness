@@ -43,6 +43,17 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
     <td>Raw image</td>
     <td>Gray or green</td>
   </tr>
+   <tr>
+    <td>Channel 6</td>
+    <td>Tagged skeleton</td>
+    <td>Fire</td>
+  </tr>
+  </tr>
+   <tr>
+    <td>Channel 7</td>
+    <td>Local thickness</td>
+    <td>Fire</td>
+  </tr>
 </table>
    6.	Generate 3D model from the analyzed image. 
 
