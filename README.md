@@ -14,7 +14,8 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
    2.	The local background is defined by applying a Gaussian blurring operation with a large sigma value and been subtracted from the raw image. 
    3.	Subsequently, the threshold was adjusted first automatically by default and allowed to be finetuned to generate a mitochondrial mask.
    4.	The thickness, branch complexity and basic 3D geometric measurements of mitochondria is analyzed by Local Thickness plugin, BoneJ plugin and 3D Object Counter respectively.
-   5.	In addition to measurements, the analyzed image named “demo image_Results” was saved as well for data inspection. 
+   5.	In addition to measurements, the analyzed image named “demo image_Results” was saved as well for data inspection.
+      
   **Imaris**
    1.	Open the Results folder in the Arena interface.
    2.	Convert the file type of analyzed image from .tiff to .ims by double-clicking on the image. 
