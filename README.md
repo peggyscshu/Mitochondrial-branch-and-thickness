@@ -65,6 +65,7 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
 **III.	Published with**
 (Submitting information about publication or project).
 **IV.	Acknowledgements**
+Please cite the doi of this tool, if this tool did help in your research.
 **V.	Reference**
 1.	Shao-Chun, Peggy, Hsu, & szutinglin. (2024). peggyscshu/Fruit-fly-mitochondrial-morphology-assay: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14435377
 2.	"A new method for the model-independent assessment of thickness in three-dimensional images" T. Hildebrand and P. Rüesgsegger, J. of Microscopy, 185 (1996) 67-75.
