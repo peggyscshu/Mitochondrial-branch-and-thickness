@@ -50,7 +50,7 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
     <td>Fire</td>
   </tr>
 </table>
-   6.	Generate 3D model from the analyzed image. 
+   5.	Generate 3D model from the analyzed image. 
 
 **II.	Instruction** 
 1.	Install Fiji is just ImageJ and Imaris. Fiji Download
