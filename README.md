@@ -1,7 +1,7 @@
 # Mitochondrial-branch-and-thickness
 ![image](https://github.com/user-attachments/assets/0a283e8a-4c0d-4386-8842-53c75f679c4a)
 
-**I.	Introduction**
+## I.	Introduction
 
 The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. elegans. Comparing to the previous case study in Drosophila [1], the 3D thickness is also included in this analysis. We employed plugins of Local Thickness [2,3], BoneJ [4] in conjunction with 3D object counter to construct this workflow. In the autosaved excel file, you will get measurements of the volume, intensity, local thickness, as well as the size of the bounding box. The analyzed result can be inspected with any 3D modeling software packages such as Imaris. 
 
@@ -53,7 +53,7 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
 </table>
    5.	Generate 3D model from the analyzed image. 
 
-**II.	Instruction** 
+## II.	Instruction
 1.	Install Fiji is just ImageJ and Imaris. Fiji Download
 2.	Download the IJM script and demo image. 
 3.	Open the Fiji software.
@@ -64,13 +64,13 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
 8.	Open the analyzed image in Imaris for 3D modeling.
 9.	Link to the tutorial.
 
-**III.	Published with**
+## III.	Published with
 (Submitting information about publication or project).
 
-**IV.	Acknowledgements**
-### • We thank Dr. Chun-Liang Pan (Institute of Molecular Medicine, College of Medicine, National Taiwan University) for offering the demo image in developing this workflow.
+## IV.	Acknowledgements
+• We thank Dr. Chun-Liang Pan (Institute of Molecular Medicine, College of Medicine, National Taiwan University) for offering the demo image in developing this workflow.
 
-**V.	Reference**
+## V.	References
 1.	Shao-Chun, Peggy, Hsu, & szutinglin. (2024). peggyscshu/Fruit-fly-mitochondrial-morphology-assay: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14435377
 2.	"A new method for the model-independent assessment of thickness in three-dimensional images" T. Hildebrand and P. Rüesgsegger, J. of Microscopy, 185 (1996) 67-75.
 3.	"New algorithms for Euclidean distance transformation on an n-dimensional digitized picture with applications," T. Saito and J. Toriwaki, Pattern Recognition 27 (1994) 1551-1565.
