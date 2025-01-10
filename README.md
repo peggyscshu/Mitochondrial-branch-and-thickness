@@ -1,5 +1,6 @@
 # Mitochondrial-branch-and-thickness
 ![image](https://github.com/user-attachments/assets/0a283e8a-4c0d-4386-8842-53c75f679c4a)
+
 I.	Introduction
 
 The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. elegans. Comparing to the previous case study in Drosophila [1], the 3D thickness is also included in this analysis. We employed plugins of Local Thickness [2,3], BoneJ [4] in conjunction with 3D object counter to construct this workflow. In the autosaved excel file, you will get measurements of the volume, intensity, local thickness, as well as the size of the bounding box. The analyzed result can be inspected with any 3D modeling software packages such as Imaris. 
