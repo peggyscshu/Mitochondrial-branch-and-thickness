@@ -68,7 +68,7 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
 (Submitting information about publication or project).
 
 **IV.	Acknowledgements**
-• We thank Dr. Chun-Liang Pan (Institute of Molecular Medicine, College of Medicine, National Taiwan University) for offering the demo image in developing this workflow.
+### • We thank Dr. Chun-Liang Pan (Institute of Molecular Medicine, College of Medicine, National Taiwan University) for offering the demo image in developing this workflow.
 
 **V.	Reference**
 1.	Shao-Chun, Peggy, Hsu, & szutinglin. (2024). peggyscshu/Fruit-fly-mitochondrial-morphology-assay: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14435377
