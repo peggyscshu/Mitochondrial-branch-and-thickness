@@ -1,21 +1,21 @@
 # Mitochondrial-branch-and-thickness
 ![image](https://github.com/user-attachments/assets/0a283e8a-4c0d-4386-8842-53c75f679c4a)
 
-<font size=10>I.	Introduction</font>
+**I.	Introduction**
 
 The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. elegans. Comparing to the previous case study in Drosophila [1], the 3D thickness is also included in this analysis. We employed plugins of Local Thickness [2,3], BoneJ [4] in conjunction with 3D object counter to construct this workflow. In the autosaved excel file, you will get measurements of the volume, intensity, local thickness, as well as the size of the bounding box. The analyzed result can be inspected with any 3D modeling software packages such as Imaris. 
 
-  #Examples
+  **#Examples**
   The confocal image of mitochondria in C.elegans (green channel).
 
-  #Description 
-  Fiji
+ **#Description** 
+  **Fiji**
    1.	Open the image with bioformat importer. 
    2.	The local background is defined by applying a Gaussian blurring operation with a large sigma value and been subtracted from the raw image. 
    3.	Subsequently, the threshold was adjusted first automatically by default and allowed to be finetuned to generate a mitochondrial mask.
    4.	The thickness, branch complexity and basic 3D geometric measurements of mitochondria is analyzed by Local Thickness plugin, BoneJ plugin and 3D Object Counter respectively.
    5.	In addition to measurements, the analyzed image named “demo image_Results” was saved as well for data inspection. 
-  Imaris
+  **Imaris**
    1.	Open the Results folder in the Arena interface.
    2.	Convert the file type of analyzed image from .tiff to .ims by double-clicking on the image. 
    3.	Three additional channels were created in the raw image dataset—mito mask, tagged mitochondrial skeleton and local thickness. The index of each mitochondrion is included in the mito mask channel which was 
@@ -52,7 +52,7 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
 </table>
    6.	Generate 3D model from the analyzed image. 
 
-II.	Instruction 
+**II.	Instruction** 
 1.	Install Fiji is just ImageJ and Imaris. Fiji Download
 2.	Download the IJM script and demo image. 
 3.	Open the Fiji software.
@@ -62,10 +62,10 @@ II.	Instruction
 7.	The final results are saved to an Excel file for further statistics.
 8.	Open the analyzed image in Imaris for 3D modeling. 
 
-III.	Published with
+**III.	Published with**
 (Submitting information about publication or project).
-IV.	Acknowledgements
-V.	Reference
+**IV.	Acknowledgements**
+**V.	Reference**
 1.	Shao-Chun, Peggy, Hsu, & szutinglin. (2024). peggyscshu/Fruit-fly-mitochondrial-morphology-assay: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14435377
 2.	"A new method for the model-independent assessment of thickness in three-dimensional images" T. Hildebrand and P. Rüesgsegger, J. of Microscopy, 185 (1996) 67-75.
 3.	"New algorithms for Euclidean distance transformation on an n-dimensional digitized picture with applications," T. Saito and J. Toriwaki, Pattern Recognition 27 (1994) 1551-1565.
