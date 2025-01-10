@@ -1,4 +1,5 @@
-# Mitochondrial-branch-and-thickness
+# Mitochondrial-branch-and-thickness ![image](https://github.com/user-attachments/assets/9c373a35-e974-4965-a23d-ebcdfaea4db5)
+
 ![image](https://github.com/user-attachments/assets/0a283e8a-4c0d-4386-8842-53c75f679c4a)
 
 ## I.	Introduction
