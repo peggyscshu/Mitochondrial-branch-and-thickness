@@ -63,7 +63,7 @@ The purpose of this Fiji macro is analyzing the mitochondrial complexity in C. e
 6.	Finetune the threshold value according to the hint.
 7.	The final results are saved to an Excel file for further statistics.
 8.	Open the analyzed image in Imaris for 3D modeling.
-9.	Link to the tutorial.
+9.	Link to the tutorial here.
 
 ## III.	Published with
 (Submitting information about publication or project).
